@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header-banner{
+    height:200px;
+    background-image: url("./images/pattern1.jpeg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: bisque;
+    font-size: 30px;
+    font-weight: bold;
+}
+main section{
+    margin:20px 0px;
+}
+main section h2{
+    margin: 10px 0px;
+    color: white;
+    
+}
+main section p{
+    margin:5px 0px;
+   
+}
+strong{
+    color: blue;
+}
